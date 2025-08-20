@@ -118,6 +118,9 @@
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;" vertex="1" parent="1">
           <mxGeometry x="400" y="738" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="527.8" y="643" width="10" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
