@@ -61,6 +61,12 @@
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="310" y="426" width="80" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="425" y="374" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;" vertex="1" parent="1">
+          <mxGeometry x="510" y="447" width="20" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
