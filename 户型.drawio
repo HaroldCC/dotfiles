@@ -163,6 +163,9 @@
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-61" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;" vertex="1" parent="1">
           <mxGeometry x="330" y="739" width="28" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-62" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_double;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="163" y="540" width="122" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
