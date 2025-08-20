@@ -14,7 +14,7 @@
           <mxGeometry x="750" y="232.5" width="30" height="177.5" as="geometry" />
         </mxCell>
         <mxCell id="BDumn9-ugRww-VhlWbHq-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="240" width="80" height="85" as="geometry" />
+          <mxGeometry x="666" y="243" width="65.88" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BDumn9-ugRww-VhlWbHq-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;" parent="1" vertex="1">
           <mxGeometry x="770" y="410" width="10" height="220" as="geometry" />
