@@ -89,7 +89,16 @@
           <mxGeometry x="150" y="222" width="60" height="528" as="geometry" />
         </mxCell>
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;" vertex="1" parent="1">
-          <mxGeometry x="160" y="740" width="30" height="10" as="geometry" />
+          <mxGeometry x="160" y="740" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="767.5" width="55" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="769.5" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
