@@ -70,6 +70,9 @@
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_double2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="470" y="487" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="352.5" width="41" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
