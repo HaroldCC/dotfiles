@@ -73,6 +73,9 @@
         <mxCell id="gL_sYNNBg2YiWqMNaNvk-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="481.5" y="352.5" width="41" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="gL_sYNNBg2YiWqMNaNvk-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="185" y="275" width="40" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
