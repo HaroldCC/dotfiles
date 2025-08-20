@@ -16,6 +16,12 @@
         <mxCell id="BDumn9-ugRww-VhlWbHq-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;" vertex="1" parent="1">
           <mxGeometry x="600" y="322.5" width="10" height="297.5" as="geometry" />
         </mxCell>
+        <mxCell id="BDumn9-ugRww-VhlWbHq-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BDumn9-ugRww-VhlWbHq-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="10" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
